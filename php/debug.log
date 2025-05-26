@@ -1,0 +1,1742 @@
+Login attempt:: 
+Login attempt:
+Login attempt:
+Login attempt:
+Login attempt:
+Login attempt:
+Login attempt:admin
+Login attempt:admin
+Login attempt:admin
+Login attempt:admin
+Array
+(
+)
+User query result: 
+User not found
+Array
+(
+)
+User query result: 
+User not found
+Array
+(
+)
+User query result: 
+User not found
+Array
+(
+)
+User query result: 
+User not found
+Array
+(
+)
+User query result: 
+User not found
+Array
+(
+)
+User query result: 
+User not found
+Array
+(
+)
+User query result: 
+User not found
+Array
+(
+)
+User query result: 
+User not found
+Array
+(
+)
+User query result: 
+User not found
+Array
+(
+    [username] => admin
+    [password] => admin123
+)
+User query result: Array
+(
+    [id] => 8
+    [0] => 8
+    [username] => admin
+    [1] => admin
+    [email] => admin@university.edu
+    [2] => admin@university.edu
+    [password] => $2y$10$OAaqfk2AZZWRar3QlQv/V.1CX9t2snnjcOJWcUMS6gx8CC5syHLvW
+    [3] => $2y$10$OAaqfk2AZZWRar3QlQv/V.1CX9t2snnjcOJWcUMS6gx8CC5syHLvW
+    [role] => admin
+    [4] => admin
+    [phone] => 
+    [5] => 
+    [created_at] => 2025-05-21 07:34:33
+    [6] => 2025-05-21 07:34:33
+)
+
+Login attempt:admin
+Array
+(
+    [username] => admin
+    [password] => admin123
+)
+User query result: Array
+(
+    [id] => 8
+    [0] => 8
+    [username] => admin
+    [1] => admin
+    [email] => admin@university.edu
+    [2] => admin@university.edu
+    [password] => $2y$10$OAaqfk2AZZWRar3QlQv/V.1CX9t2snnjcOJWcUMS6gx8CC5syHLvW
+    [3] => $2y$10$OAaqfk2AZZWRar3QlQv/V.1CX9t2snnjcOJWcUMS6gx8CC5syHLvW
+    [role] => admin
+    [4] => admin
+    [phone] => 
+    [5] => 
+    [created_at] => 2025-05-21 07:34:33
+    [6] => 2025-05-21 07:34:33
+)
+
+Login attempt:admin
+Array
+(
+    [username] => admin
+    [password] => admin123
+)
+User query result: Array
+(
+    [id] => 8
+    [0] => 8
+    [username] => admin
+    [1] => admin
+    [email] => admin@university.edu
+    [2] => admin@university.edu
+    [password] => $2y$10$OAaqfk2AZZWRar3QlQv/V.1CX9t2snnjcOJWcUMS6gx8CC5syHLvW
+    [3] => $2y$10$OAaqfk2AZZWRar3QlQv/V.1CX9t2snnjcOJWcUMS6gx8CC5syHLvW
+    [role] => admin
+    [4] => admin
+    [phone] => 
+    [5] => 
+    [created_at] => 2025-05-21 07:34:33
+    [6] => 2025-05-21 07:34:33
+)
+
+Login attempt:admin
+Array
+(
+    [username] => admin
+    [password] => admin123
+)
+User query result: Array
+(
+    [id] => 8
+    [0] => 8
+    [username] => admin
+    [1] => admin
+    [email] => admin@university.edu
+    [2] => admin@university.edu
+    [password] => $2y$10$OAaqfk2AZZWRar3QlQv/V.1CX9t2snnjcOJWcUMS6gx8CC5syHLvW
+    [3] => $2y$10$OAaqfk2AZZWRar3QlQv/V.1CX9t2snnjcOJWcUMS6gx8CC5syHLvW
+    [role] => admin
+    [4] => admin
+    [phone] => 
+    [5] => 
+    [created_at] => 2025-05-21 07:34:33
+    [6] => 2025-05-21 07:34:33
+)
+
+Login attempt:admin
+Array
+(
+    [username] => admin
+    [password] => admin123
+)
+User query result: Array
+(
+    [id] => 8
+    [0] => 8
+    [username] => admin
+    [1] => admin
+    [email] => admin@university.edu
+    [2] => admin@university.edu
+    [password] => $2y$10$OAaqfk2AZZWRar3QlQv/V.1CX9t2snnjcOJWcUMS6gx8CC5syHLvW
+    [3] => $2y$10$OAaqfk2AZZWRar3QlQv/V.1CX9t2snnjcOJWcUMS6gx8CC5syHLvW
+    [role] => admin
+    [4] => admin
+    [phone] => 
+    [5] => 
+    [created_at] => 2025-05-21 07:34:33
+    [6] => 2025-05-21 07:34:33
+)
+
+Login attempt:admin
+Array
+(
+    [username] => admin
+    [password] => admin123
+)
+User query result: Array
+(
+    [id] => 8
+    [0] => 8
+    [username] => admin
+    [1] => admin
+    [email] => admin@university.edu
+    [2] => admin@university.edu
+    [password] => $2y$10$OAaqfk2AZZWRar3QlQv/V.1CX9t2snnjcOJWcUMS6gx8CC5syHLvW
+    [3] => $2y$10$OAaqfk2AZZWRar3QlQv/V.1CX9t2snnjcOJWcUMS6gx8CC5syHLvW
+    [role] => admin
+    [4] => admin
+    [phone] => 
+    [5] => 
+    [created_at] => 2025-05-21 07:34:33
+    [6] => 2025-05-21 07:34:33
+)
+
+Login attempt:admin
+Array
+(
+    [username] => admin
+    [password] => admin123
+)
+User query result: Array
+(
+    [id] => 8
+    [0] => 8
+    [username] => admin
+    [1] => admin
+    [email] => admin@university.edu
+    [2] => admin@university.edu
+    [password] => $2y$10$OAaqfk2AZZWRar3QlQv/V.1CX9t2snnjcOJWcUMS6gx8CC5syHLvW
+    [3] => $2y$10$OAaqfk2AZZWRar3QlQv/V.1CX9t2snnjcOJWcUMS6gx8CC5syHLvW
+    [role] => admin
+    [4] => admin
+    [phone] => 
+    [5] => 
+    [created_at] => 2025-05-21 07:34:33
+    [6] => 2025-05-21 07:34:33
+)
+
+Login attempt:admin
+Array
+(
+    [username] => admin
+    [password] => admin123
+)
+User query result: Array
+(
+    [id] => 8
+    [0] => 8
+    [username] => admin
+    [1] => admin
+    [email] => admin@university.edu
+    [2] => admin@university.edu
+    [password] => $2y$10$OAaqfk2AZZWRar3QlQv/V.1CX9t2snnjcOJWcUMS6gx8CC5syHLvW
+    [3] => $2y$10$OAaqfk2AZZWRar3QlQv/V.1CX9t2snnjcOJWcUMS6gx8CC5syHLvW
+    [role] => admin
+    [4] => admin
+    [phone] => 
+    [5] => 
+    [created_at] => 2025-05-21 07:34:33
+    [6] => 2025-05-21 07:34:33
+)
+
+Login attempt:admin
+Array
+(
+    [username] => admin
+    [password] => admin123
+)
+User query result: Array
+(
+    [id] => 8
+    [0] => 8
+    [username] => admin
+    [1] => admin
+    [email] => admin@university.edu
+    [2] => admin@university.edu
+    [password] => $2y$10$OAaqfk2AZZWRar3QlQv/V.1CX9t2snnjcOJWcUMS6gx8CC5syHLvW
+    [3] => $2y$10$OAaqfk2AZZWRar3QlQv/V.1CX9t2snnjcOJWcUMS6gx8CC5syHLvW
+    [role] => admin
+    [4] => admin
+    [phone] => 
+    [5] => 
+    [created_at] => 2025-05-21 07:34:33
+    [6] => 2025-05-21 07:34:33
+)
+
+Login attempt:admin
+Array
+(
+    [username] => admin
+    [password] => admin123
+)
+User query result: Array
+(
+    [id] => 8
+    [0] => 8
+    [username] => admin
+    [1] => admin
+    [email] => admin@university.edu
+    [2] => admin@university.edu
+    [password] => $2y$10$OAaqfk2AZZWRar3QlQv/V.1CX9t2snnjcOJWcUMS6gx8CC5syHLvW
+    [3] => $2y$10$OAaqfk2AZZWRar3QlQv/V.1CX9t2snnjcOJWcUMS6gx8CC5syHLvW
+    [role] => admin
+    [4] => admin
+    [phone] => 
+    [5] => 
+    [created_at] => 2025-05-21 07:34:33
+    [6] => 2025-05-21 07:34:33
+)
+
+Login attempt:admin
+Array
+(
+    [username] => admin
+    [password] => admin123
+)
+User query result: Array
+(
+    [id] => 8
+    [0] => 8
+    [username] => admin
+    [1] => admin
+    [email] => admin@university.edu
+    [2] => admin@university.edu
+    [password] => $2y$10$OAaqfk2AZZWRar3QlQv/V.1CX9t2snnjcOJWcUMS6gx8CC5syHLvW
+    [3] => $2y$10$OAaqfk2AZZWRar3QlQv/V.1CX9t2snnjcOJWcUMS6gx8CC5syHLvW
+    [role] => admin
+    [4] => admin
+    [phone] => 
+    [5] => 
+    [created_at] => 2025-05-21 07:34:33
+    [6] => 2025-05-21 07:34:33
+)
+
+Login attempt:admin
+Array
+(
+    [username] => admin
+    [password] => admin123
+)
+User query result: Array
+(
+    [id] => 8
+    [0] => 8
+    [username] => admin
+    [1] => admin
+    [email] => admin@university.edu
+    [2] => admin@university.edu
+    [password] => $2y$10$OAaqfk2AZZWRar3QlQv/V.1CX9t2snnjcOJWcUMS6gx8CC5syHLvW
+    [3] => $2y$10$OAaqfk2AZZWRar3QlQv/V.1CX9t2snnjcOJWcUMS6gx8CC5syHLvW
+    [role] => admin
+    [4] => admin
+    [phone] => 
+    [5] => 
+    [created_at] => 2025-05-21 07:34:33
+    [6] => 2025-05-21 07:34:33
+)
+
+Login attempt:admin
+Array
+(
+    [username] => admin
+    [password] => admin123
+)
+User query result: Array
+(
+    [id] => 8
+    [0] => 8
+    [username] => admin
+    [1] => admin
+    [email] => admin@university.edu
+    [2] => admin@university.edu
+    [password] => $2y$10$OAaqfk2AZZWRar3QlQv/V.1CX9t2snnjcOJWcUMS6gx8CC5syHLvW
+    [3] => $2y$10$OAaqfk2AZZWRar3QlQv/V.1CX9t2snnjcOJWcUMS6gx8CC5syHLvW
+    [role] => admin
+    [4] => admin
+    [phone] => 
+    [5] => 
+    [created_at] => 2025-05-21 07:34:33
+    [6] => 2025-05-21 07:34:33
+)
+
+Login attempt:admin
+Array
+(
+    [username] => admin
+    [password] => admin123
+)
+User query result: Array
+(
+    [id] => 8
+    [0] => 8
+    [username] => admin
+    [1] => admin
+    [email] => admin@university.edu
+    [2] => admin@university.edu
+    [password] => $2y$10$OAaqfk2AZZWRar3QlQv/V.1CX9t2snnjcOJWcUMS6gx8CC5syHLvW
+    [3] => $2y$10$OAaqfk2AZZWRar3QlQv/V.1CX9t2snnjcOJWcUMS6gx8CC5syHLvW
+    [role] => admin
+    [4] => admin
+    [phone] => 
+    [5] => 
+    [created_at] => 2025-05-21 07:34:33
+    [6] => 2025-05-21 07:34:33
+)
+
+Login attempt:admin
+Array
+(
+    [username] => admin
+    [password] => admin123
+)
+User query result: Array
+(
+    [id] => 8
+    [0] => 8
+    [username] => admin
+    [1] => admin
+    [email] => admin@university.edu
+    [2] => admin@university.edu
+    [password] => $2y$10$OAaqfk2AZZWRar3QlQv/V.1CX9t2snnjcOJWcUMS6gx8CC5syHLvW
+    [3] => $2y$10$OAaqfk2AZZWRar3QlQv/V.1CX9t2snnjcOJWcUMS6gx8CC5syHLvW
+    [role] => admin
+    [4] => admin
+    [phone] => 
+    [5] => 
+    [created_at] => 2025-05-21 07:34:33
+    [6] => 2025-05-21 07:34:33
+)
+
+Login attempt:admin
+Array
+(
+    [username] => admin
+    [password] => admin123
+)
+User query result: Array
+(
+    [id] => 8
+    [0] => 8
+    [username] => admin
+    [1] => admin
+    [email] => admin@university.edu
+    [2] => admin@university.edu
+    [password] => $2y$10$OAaqfk2AZZWRar3QlQv/V.1CX9t2snnjcOJWcUMS6gx8CC5syHLvW
+    [3] => $2y$10$OAaqfk2AZZWRar3QlQv/V.1CX9t2snnjcOJWcUMS6gx8CC5syHLvW
+    [role] => admin
+    [4] => admin
+    [phone] => 
+    [5] => 
+    [created_at] => 2025-05-21 07:34:33
+    [6] => 2025-05-21 07:34:33
+)
+
+Login attempt:admin
+Array
+(
+    [username] => admin
+    [password] => admin123
+)
+User query result: Array
+(
+    [id] => 8
+    [0] => 8
+    [username] => admin
+    [1] => admin
+    [email] => admin@university.edu
+    [2] => admin@university.edu
+    [password] => $2y$10$OAaqfk2AZZWRar3QlQv/V.1CX9t2snnjcOJWcUMS6gx8CC5syHLvW
+    [3] => $2y$10$OAaqfk2AZZWRar3QlQv/V.1CX9t2snnjcOJWcUMS6gx8CC5syHLvW
+    [role] => admin
+    [4] => admin
+    [phone] => 
+    [5] => 
+    [created_at] => 2025-05-21 07:34:33
+    [6] => 2025-05-21 07:34:33
+)
+
+Login attempt:admin
+Array
+(
+    [username] => admin
+    [password] => admin123
+)
+User query result: Array
+(
+    [id] => 8
+    [0] => 8
+    [username] => admin
+    [1] => admin
+    [email] => admin@university.edu
+    [2] => admin@university.edu
+    [password] => $2y$10$OAaqfk2AZZWRar3QlQv/V.1CX9t2snnjcOJWcUMS6gx8CC5syHLvW
+    [3] => $2y$10$OAaqfk2AZZWRar3QlQv/V.1CX9t2snnjcOJWcUMS6gx8CC5syHLvW
+    [role] => admin
+    [4] => admin
+    [phone] => 
+    [5] => 
+    [created_at] => 2025-05-21 07:34:33
+    [6] => 2025-05-21 07:34:33
+)
+
+Login attempt:admin
+Array
+(
+    [username] => admin
+    [password] => admin123
+)
+User query result: Array
+(
+    [id] => 8
+    [0] => 8
+    [username] => admin
+    [1] => admin
+    [email] => admin@university.edu
+    [2] => admin@university.edu
+    [password] => $2y$10$OAaqfk2AZZWRar3QlQv/V.1CX9t2snnjcOJWcUMS6gx8CC5syHLvW
+    [3] => $2y$10$OAaqfk2AZZWRar3QlQv/V.1CX9t2snnjcOJWcUMS6gx8CC5syHLvW
+    [role] => admin
+    [4] => admin
+    [phone] => 
+    [5] => 
+    [created_at] => 2025-05-21 07:34:33
+    [6] => 2025-05-21 07:34:33
+)
+
+Login attempt:admin
+Array
+(
+    [username] => admin
+    [password] => admin123
+)
+User query result: Array
+(
+    [id] => 8
+    [0] => 8
+    [username] => admin
+    [1] => admin
+    [email] => admin@university.edu
+    [2] => admin@university.edu
+    [password] => $2y$10$OAaqfk2AZZWRar3QlQv/V.1CX9t2snnjcOJWcUMS6gx8CC5syHLvW
+    [3] => $2y$10$OAaqfk2AZZWRar3QlQv/V.1CX9t2snnjcOJWcUMS6gx8CC5syHLvW
+    [role] => admin
+    [4] => admin
+    [phone] => 
+    [5] => 
+    [created_at] => 2025-05-21 07:34:33
+    [6] => 2025-05-21 07:34:33
+)
+
+Login attempt:admin
+Array
+(
+    [username] => admin
+    [password] => admin123
+)
+User query result: Array
+(
+    [id] => 8
+    [0] => 8
+    [username] => admin
+    [1] => admin
+    [email] => admin@university.edu
+    [2] => admin@university.edu
+    [password] => $2y$10$OAaqfk2AZZWRar3QlQv/V.1CX9t2snnjcOJWcUMS6gx8CC5syHLvW
+    [3] => $2y$10$OAaqfk2AZZWRar3QlQv/V.1CX9t2snnjcOJWcUMS6gx8CC5syHLvW
+    [role] => admin
+    [4] => admin
+    [phone] => 
+    [5] => 
+    [created_at] => 2025-05-21 07:34:33
+    [6] => 2025-05-21 07:34:33
+)
+
+Login attempt:admin
+Array
+(
+    [username] => admin
+    [password] => admin123
+)
+User query result: Array
+(
+    [id] => 8
+    [0] => 8
+    [username] => admin
+    [1] => admin
+    [email] => admin@university.edu
+    [2] => admin@university.edu
+    [password] => $2y$10$OAaqfk2AZZWRar3QlQv/V.1CX9t2snnjcOJWcUMS6gx8CC5syHLvW
+    [3] => $2y$10$OAaqfk2AZZWRar3QlQv/V.1CX9t2snnjcOJWcUMS6gx8CC5syHLvW
+    [role] => admin
+    [4] => admin
+    [phone] => 
+    [5] => 
+    [created_at] => 2025-05-21 07:34:33
+    [6] => 2025-05-21 07:34:33
+)
+
+Login attempt:admin
+Array
+(
+    [username] => admin
+    [password] => admin123
+)
+User query result: Array
+(
+    [id] => 8
+    [0] => 8
+    [username] => admin
+    [1] => admin
+    [email] => admin@university.edu
+    [2] => admin@university.edu
+    [password] => $2y$10$OAaqfk2AZZWRar3QlQv/V.1CX9t2snnjcOJWcUMS6gx8CC5syHLvW
+    [3] => $2y$10$OAaqfk2AZZWRar3QlQv/V.1CX9t2snnjcOJWcUMS6gx8CC5syHLvW
+    [role] => admin
+    [4] => admin
+    [phone] => 
+    [5] => 
+    [created_at] => 2025-05-21 07:34:33
+    [6] => 2025-05-21 07:34:33
+)
+
+Login attempt:admin
+Array
+(
+    [username] => admin
+    [password] => admin123
+)
+User query result: Array
+(
+    [id] => 8
+    [0] => 8
+    [username] => admin
+    [1] => admin
+    [email] => admin@university.edu
+    [2] => admin@university.edu
+    [password] => $2y$10$OAaqfk2AZZWRar3QlQv/V.1CX9t2snnjcOJWcUMS6gx8CC5syHLvW
+    [3] => $2y$10$OAaqfk2AZZWRar3QlQv/V.1CX9t2snnjcOJWcUMS6gx8CC5syHLvW
+    [role] => admin
+    [4] => admin
+    [phone] => 
+    [5] => 
+    [created_at] => 2025-05-21 07:34:33
+    [6] => 2025-05-21 07:34:33
+)
+
+Login attempt:admin
+Array
+(
+    [username] => admin
+    [password] => admin123
+)
+User query result: Array
+(
+    [id] => 8
+    [0] => 8
+    [username] => admin
+    [1] => admin
+    [email] => admin@university.edu
+    [2] => admin@university.edu
+    [password] => $2y$10$OAaqfk2AZZWRar3QlQv/V.1CX9t2snnjcOJWcUMS6gx8CC5syHLvW
+    [3] => $2y$10$OAaqfk2AZZWRar3QlQv/V.1CX9t2snnjcOJWcUMS6gx8CC5syHLvW
+    [role] => admin
+    [4] => admin
+    [phone] => 
+    [5] => 
+    [created_at] => 2025-05-21 07:34:33
+    [6] => 2025-05-21 07:34:33
+)
+
+Login attempt:admin
+Array
+(
+    [username] => admin
+    [password] => admin123
+)
+User query result: Array
+(
+    [id] => 8
+    [0] => 8
+    [username] => admin
+    [1] => admin
+    [email] => admin@university.edu
+    [2] => admin@university.edu
+    [password] => $2y$10$OAaqfk2AZZWRar3QlQv/V.1CX9t2snnjcOJWcUMS6gx8CC5syHLvW
+    [3] => $2y$10$OAaqfk2AZZWRar3QlQv/V.1CX9t2snnjcOJWcUMS6gx8CC5syHLvW
+    [role] => admin
+    [4] => admin
+    [phone] => 
+    [5] => 
+    [created_at] => 2025-05-21 07:34:33
+    [6] => 2025-05-21 07:34:33
+)
+
+Login attempt:admin
+Array
+(
+    [username] => admin
+    [password] => admin123
+)
+User query result: Array
+(
+    [id] => 8
+    [0] => 8
+    [username] => admin
+    [1] => admin
+    [email] => admin@university.edu
+    [2] => admin@university.edu
+    [password] => $2y$10$OAaqfk2AZZWRar3QlQv/V.1CX9t2snnjcOJWcUMS6gx8CC5syHLvW
+    [3] => $2y$10$OAaqfk2AZZWRar3QlQv/V.1CX9t2snnjcOJWcUMS6gx8CC5syHLvW
+    [role] => admin
+    [4] => admin
+    [phone] => 
+    [5] => 
+    [created_at] => 2025-05-21 07:34:33
+    [6] => 2025-05-21 07:34:33
+)
+
+Login attempt:admin
+Array
+(
+    [username] => admin
+    [password] => admin123
+)
+User query result: Array
+(
+    [id] => 8
+    [0] => 8
+    [username] => admin
+    [1] => admin
+    [email] => admin@university.edu
+    [2] => admin@university.edu
+    [password] => $2y$10$OAaqfk2AZZWRar3QlQv/V.1CX9t2snnjcOJWcUMS6gx8CC5syHLvW
+    [3] => $2y$10$OAaqfk2AZZWRar3QlQv/V.1CX9t2snnjcOJWcUMS6gx8CC5syHLvW
+    [role] => admin
+    [4] => admin
+    [phone] => 
+    [5] => 
+    [created_at] => 2025-05-21 07:34:33
+    [6] => 2025-05-21 07:34:33
+)
+
+Login attempt:admin
+Array
+(
+    [username] => admin
+    [password] => admin123
+)
+User query result: Array
+(
+    [id] => 8
+    [0] => 8
+    [username] => admin
+    [1] => admin
+    [email] => admin@university.edu
+    [2] => admin@university.edu
+    [password] => $2y$10$OAaqfk2AZZWRar3QlQv/V.1CX9t2snnjcOJWcUMS6gx8CC5syHLvW
+    [3] => $2y$10$OAaqfk2AZZWRar3QlQv/V.1CX9t2snnjcOJWcUMS6gx8CC5syHLvW
+    [role] => admin
+    [4] => admin
+    [phone] => 
+    [5] => 
+    [created_at] => 2025-05-21 07:34:33
+    [6] => 2025-05-21 07:34:33
+)
+
+Login attempt:admin
+Array
+(
+    [username] => admin
+    [password] => admin123
+)
+User query result: Array
+(
+    [id] => 8
+    [0] => 8
+    [username] => admin
+    [1] => admin
+    [email] => admin@university.edu
+    [2] => admin@university.edu
+    [password] => $2y$10$OAaqfk2AZZWRar3QlQv/V.1CX9t2snnjcOJWcUMS6gx8CC5syHLvW
+    [3] => $2y$10$OAaqfk2AZZWRar3QlQv/V.1CX9t2snnjcOJWcUMS6gx8CC5syHLvW
+    [role] => admin
+    [4] => admin
+    [phone] => 
+    [5] => 
+    [created_at] => 2025-05-21 07:34:33
+    [6] => 2025-05-21 07:34:33
+)
+
+Login attempt:admin
+Array
+(
+    [username] => student1
+    [password] => student123
+)
+User query result: Array
+(
+    [id] => 2
+    [0] => 2
+    [username] => student1
+    [1] => student1
+    [email] => student1@university.edu
+    [2] => student1@university.edu
+    [password] =>   $2y$10$qOk3tRZnB7P3RLlvypNdAeQ62h2yrzbGYUHCjaVuun0A/j6SBZSSK
+    [3] =>   $2y$10$qOk3tRZnB7P3RLlvypNdAeQ62h2yrzbGYUHCjaVuun0A/j6SBZSSK
+    [role] => student
+    [4] => student
+    [phone] => +1234567890
+    [5] => +1234567890
+    [created_at] => 2025-05-21 07:18:51
+    [6] => 2025-05-21 07:18:51
+)
+
+Password mismatch
+Array
+(
+    [username] => student1
+    [password] => student123
+)
+User query result: Array
+(
+    [id] => 2
+    [0] => 2
+    [username] => student1
+    [1] => student1
+    [email] => student1@university.edu
+    [2] => student1@university.edu
+    [password] =>   $2y$10$qOk3tRZnB7P3RLlvypNdAeQ62h2yrzbGYUHCjaVuun0A/j6SBZSSK
+    [3] =>   $2y$10$qOk3tRZnB7P3RLlvypNdAeQ62h2yrzbGYUHCjaVuun0A/j6SBZSSK
+    [role] => student
+    [4] => student
+    [phone] => +1234567890
+    [5] => +1234567890
+    [created_at] => 2025-05-21 07:18:51
+    [6] => 2025-05-21 07:18:51
+)
+
+Password mismatch
+Array
+(
+    [username] => student1
+    [password] => student123
+)
+User query result: Array
+(
+    [id] => 2
+    [0] => 2
+    [username] => student1
+    [1] => student1
+    [email] => student1@university.edu
+    [2] => student1@university.edu
+    [password] =>   $2y$10$qOk3tRZnB7P3RLlvypNdAeQ62h2yrzbGYUHCjaVuun0A/j6SBZSSK
+    [3] =>   $2y$10$qOk3tRZnB7P3RLlvypNdAeQ62h2yrzbGYUHCjaVuun0A/j6SBZSSK
+    [role] => student
+    [4] => student
+    [phone] => +1234567890
+    [5] => +1234567890
+    [created_at] => 2025-05-21 07:18:51
+    [6] => 2025-05-21 07:18:51
+)
+
+Password mismatch
+Array
+(
+    [username] => student1
+    [password] => student123
+)
+User query result: Array
+(
+    [id] => 2
+    [0] => 2
+    [username] => student1
+    [1] => student1
+    [email] => student1@university.edu
+    [2] => student1@university.edu
+    [password] =>   $2y$10$qOk3tRZnB7P3RLlvypNdAeQ62h2yrzbGYUHCjaVuun0A/j6SBZSSK
+    [3] =>   $2y$10$qOk3tRZnB7P3RLlvypNdAeQ62h2yrzbGYUHCjaVuun0A/j6SBZSSK
+    [role] => student
+    [4] => student
+    [phone] => +1234567890
+    [5] => +1234567890
+    [created_at] => 2025-05-21 07:18:51
+    [6] => 2025-05-21 07:18:51
+)
+
+Password mismatch
+Array
+(
+    [username] => student1
+    [password] => student123
+)
+User query result: Array
+(
+    [id] => 2
+    [0] => 2
+    [username] => student1
+    [1] => student1
+    [email] => student1@university.edu
+    [2] => student1@university.edu
+    [password] =>   $2y$10$qOk3tRZnB7P3RLlvypNdAeQ62h2yrzbGYUHCjaVuun0A/j6SBZSSK
+    [3] =>   $2y$10$qOk3tRZnB7P3RLlvypNdAeQ62h2yrzbGYUHCjaVuun0A/j6SBZSSK
+    [role] => student
+    [4] => student
+    [phone] => +1234567890
+    [5] => +1234567890
+    [created_at] => 2025-05-21 07:18:51
+    [6] => 2025-05-21 07:18:51
+)
+
+Password mismatch
+Array
+(
+    [username] => student1
+    [password] => student123
+)
+User query result: Array
+(
+    [id] => 2
+    [0] => 2
+    [username] => student1
+    [1] => student1
+    [email] => student1@university.edu
+    [2] => student1@university.edu
+    [password] =>   $2y$10$qOk3tRZnB7P3RLlvypNdAeQ62h2yrzbGYUHCjaVuun0A/j6SBZSSK
+    [3] =>   $2y$10$qOk3tRZnB7P3RLlvypNdAeQ62h2yrzbGYUHCjaVuun0A/j6SBZSSK
+    [role] => student
+    [4] => student
+    [phone] => +1234567890
+    [5] => +1234567890
+    [created_at] => 2025-05-21 07:18:51
+    [6] => 2025-05-21 07:18:51
+)
+
+Password mismatch
+Array
+(
+    [username] => student1
+    [password] => student123
+)
+User query result: Array
+(
+    [id] => 2
+    [0] => 2
+    [username] => student1
+    [1] => student1
+    [email] => student1@university.edu
+    [2] => student1@university.edu
+    [password] =>   $2y$10$qOk3tRZnB7P3RLlvypNdAeQ62h2yrzbGYUHCjaVuun0A/j6SBZSSK
+    [3] =>   $2y$10$qOk3tRZnB7P3RLlvypNdAeQ62h2yrzbGYUHCjaVuun0A/j6SBZSSK
+    [role] => student
+    [4] => student
+    [phone] => +1234567890
+    [5] => +1234567890
+    [created_at] => 2025-05-21 07:18:51
+    [6] => 2025-05-21 07:18:51
+)
+
+Password mismatch
+Array
+(
+    [username] => student1
+    [password] => student123
+)
+User query result: Array
+(
+    [id] => 2
+    [0] => 2
+    [username] => student1
+    [1] => student1
+    [email] => student1@university.edu
+    [2] => student1@university.edu
+    [password] =>   $2y$10$qOk3tRZnB7P3RLlvypNdAeQ62h2yrzbGYUHCjaVuun0A/j6SBZSSK
+    [3] =>   $2y$10$qOk3tRZnB7P3RLlvypNdAeQ62h2yrzbGYUHCjaVuun0A/j6SBZSSK
+    [role] => student
+    [4] => student
+    [phone] => +1234567890
+    [5] => +1234567890
+    [created_at] => 2025-05-21 07:18:51
+    [6] => 2025-05-21 07:18:51
+)
+
+Password mismatch
+Array
+(
+    [username] => student1
+    [password] => student123
+)
+User query result: Array
+(
+    [id] => 2
+    [0] => 2
+    [username] => student1
+    [1] => student1
+    [email] => student1@university.edu
+    [2] => student1@university.edu
+    [password] =>   $2y$10$qOk3tRZnB7P3RLlvypNdAeQ62h2yrzbGYUHCjaVuun0A/j6SBZSSK
+    [3] =>   $2y$10$qOk3tRZnB7P3RLlvypNdAeQ62h2yrzbGYUHCjaVuun0A/j6SBZSSK
+    [role] => student
+    [4] => student
+    [phone] => +1234567890
+    [5] => +1234567890
+    [created_at] => 2025-05-21 07:18:51
+    [6] => 2025-05-21 07:18:51
+)
+
+Password mismatch
+Array
+(
+    [username] => student1
+    [password] => student123
+)
+User query result: Array
+(
+    [id] => 2
+    [0] => 2
+    [username] => student1
+    [1] => student1
+    [email] => student1@university.edu
+    [2] => student1@university.edu
+    [password] =>   $2y$10$qOk3tRZnB7P3RLlvypNdAeQ62h2yrzbGYUHCjaVuun0A/j6SBZSSK
+    [3] =>   $2y$10$qOk3tRZnB7P3RLlvypNdAeQ62h2yrzbGYUHCjaVuun0A/j6SBZSSK
+    [role] => student
+    [4] => student
+    [phone] => +1234567890
+    [5] => +1234567890
+    [created_at] => 2025-05-21 07:18:51
+    [6] => 2025-05-21 07:18:51
+)
+
+Password mismatch
+Array
+(
+    [username] => student1
+    [password] => student123
+)
+User query result: Array
+(
+    [id] => 2
+    [0] => 2
+    [username] => student1
+    [1] => student1
+    [email] => student1@university.edu
+    [2] => student1@university.edu
+    [password] =>   $2y$10$qOk3tRZnB7P3RLlvypNdAeQ62h2yrzbGYUHCjaVuun0A/j6SBZSSK
+    [3] =>   $2y$10$qOk3tRZnB7P3RLlvypNdAeQ62h2yrzbGYUHCjaVuun0A/j6SBZSSK
+    [role] => student
+    [4] => student
+    [phone] => +1234567890
+    [5] => +1234567890
+    [created_at] => 2025-05-21 07:18:51
+    [6] => 2025-05-21 07:18:51
+)
+
+Password mismatch
+Array
+(
+    [username] => student1
+    [password] => student123
+)
+User query result: Array
+(
+    [id] => 2
+    [0] => 2
+    [username] => student1
+    [1] => student1
+    [email] => student1@university.edu
+    [2] => student1@university.edu
+    [password] =>   $2y$10$qOk3tRZnB7P3RLlvypNdAeQ62h2yrzbGYUHCjaVuun0A/j6SBZSSK
+    [3] =>   $2y$10$qOk3tRZnB7P3RLlvypNdAeQ62h2yrzbGYUHCjaVuun0A/j6SBZSSK
+    [role] => student
+    [4] => student
+    [phone] => +1234567890
+    [5] => +1234567890
+    [created_at] => 2025-05-21 07:18:51
+    [6] => 2025-05-21 07:18:51
+)
+
+Password mismatch
+Array
+(
+    [username] => student1
+    [password] => student1#@123
+)
+User query result: Array
+(
+    [id] => 2
+    [0] => 2
+    [username] => student1
+    [1] => student1
+    [email] => student1@university.edu
+    [2] => student1@university.edu
+    [password] =>   $2y$10$qOk3tRZnB7P3RLlvypNdAeQ62h2yrzbGYUHCjaVuun0A/j6SBZSSK
+    [3] =>   $2y$10$qOk3tRZnB7P3RLlvypNdAeQ62h2yrzbGYUHCjaVuun0A/j6SBZSSK
+    [role] => student
+    [4] => student
+    [phone] => +1234567890
+    [5] => +1234567890
+    [created_at] => 2025-05-21 07:18:51
+    [6] => 2025-05-21 07:18:51
+)
+
+Password mismatch
+Array
+(
+    [username] => student1
+    [password] => student1#@123
+)
+User query result: Array
+(
+    [id] => 2
+    [0] => 2
+    [username] => student1
+    [1] => student1
+    [email] => student1@university.edu
+    [2] => student1@university.edu
+    [password] =>   $2y$10$qOk3tRZnB7P3RLlvypNdAeQ62h2yrzbGYUHCjaVuun0A/j6SBZSSK
+    [3] =>   $2y$10$qOk3tRZnB7P3RLlvypNdAeQ62h2yrzbGYUHCjaVuun0A/j6SBZSSK
+    [role] => student
+    [4] => student
+    [phone] => +1234567890
+    [5] => +1234567890
+    [created_at] => 2025-05-21 07:18:51
+    [6] => 2025-05-21 07:18:51
+)
+
+Password mismatch
+Array
+(
+    [username] => student1
+    [password] => student1#@123
+)
+User query result: Array
+(
+    [id] => 2
+    [0] => 2
+    [username] => student1
+    [1] => student1
+    [email] => student1@university.edu
+    [2] => student1@university.edu
+    [password] =>   $2y$10$qOk3tRZnB7P3RLlvypNdAeQ62h2yrzbGYUHCjaVuun0A/j6SBZSSK
+    [3] =>   $2y$10$qOk3tRZnB7P3RLlvypNdAeQ62h2yrzbGYUHCjaVuun0A/j6SBZSSK
+    [role] => student
+    [4] => student
+    [phone] => +1234567890
+    [5] => +1234567890
+    [created_at] => 2025-05-21 07:18:51
+    [6] => 2025-05-21 07:18:51
+)
+
+Password mismatch
+Array
+(
+    [username] => student1
+    [password] => student1#@123
+)
+User query result: Array
+(
+    [id] => 2
+    [0] => 2
+    [username] => student1
+    [1] => student1
+    [email] => student1@university.edu
+    [2] => student1@university.edu
+    [password] =>   $2y$10$qOk3tRZnB7P3RLlvypNdAeQ62h2yrzbGYUHCjaVuun0A/j6SBZSSK
+    [3] =>   $2y$10$qOk3tRZnB7P3RLlvypNdAeQ62h2yrzbGYUHCjaVuun0A/j6SBZSSK
+    [role] => student
+    [4] => student
+    [phone] => +1234567890
+    [5] => +1234567890
+    [created_at] => 2025-05-21 07:18:51
+    [6] => 2025-05-21 07:18:51
+)
+
+Password mismatch
+Array
+(
+    [username] => student1
+    [password] => student1#@123
+)
+User query result: Array
+(
+    [id] => 2
+    [0] => 2
+    [username] => student1
+    [1] => student1
+    [email] => student1@university.edu
+    [2] => student1@university.edu
+    [password] =>   $2y$10$qOk3tRZnB7P3RLlvypNdAeQ62h2yrzbGYUHCjaVuun0A/j6SBZSSK
+    [3] =>   $2y$10$qOk3tRZnB7P3RLlvypNdAeQ62h2yrzbGYUHCjaVuun0A/j6SBZSSK
+    [role] => student
+    [4] => student
+    [phone] => +1234567890
+    [5] => +1234567890
+    [created_at] => 2025-05-21 07:18:51
+    [6] => 2025-05-21 07:18:51
+)
+
+Password mismatch
+Array
+(
+    [username] => student1
+    [password] => student1#@123
+)
+User query result: Array
+(
+    [id] => 2
+    [0] => 2
+    [username] => student1
+    [1] => student1
+    [email] => student1@university.edu
+    [2] => student1@university.edu
+    [password] =>   $2y$10$qOk3tRZnB7P3RLlvypNdAeQ62h2yrzbGYUHCjaVuun0A/j6SBZSSK
+    [3] =>   $2y$10$qOk3tRZnB7P3RLlvypNdAeQ62h2yrzbGYUHCjaVuun0A/j6SBZSSK
+    [role] => student
+    [4] => student
+    [phone] => +1234567890
+    [5] => +1234567890
+    [created_at] => 2025-05-21 07:18:51
+    [6] => 2025-05-21 07:18:51
+)
+
+Password mismatch
+Array
+(
+    [username] => admin
+    [password] => 12345678
+)
+User query result: Array
+(
+    [id] => 8
+    [0] => 8
+    [username] => admin
+    [1] => admin
+    [email] => admin@university.edu
+    [2] => admin@university.edu
+    [password] => $2y$10$OAaqfk2AZZWRar3QlQv/V.1CX9t2snnjcOJWcUMS6gx8CC5syHLvW
+    [3] => $2y$10$OAaqfk2AZZWRar3QlQv/V.1CX9t2snnjcOJWcUMS6gx8CC5syHLvW
+    [role] => admin
+    [4] => admin
+    [phone] => 
+    [5] => 
+    [created_at] => 2025-05-21 07:34:33
+    [6] => 2025-05-21 07:34:33
+)
+
+Password mismatch
+Array
+(
+    [username] => admin
+    [password] => 12345678
+)
+User query result: Array
+(
+    [id] => 8
+    [0] => 8
+    [username] => admin
+    [1] => admin
+    [email] => admin@university.edu
+    [2] => admin@university.edu
+    [password] => $2y$10$OAaqfk2AZZWRar3QlQv/V.1CX9t2snnjcOJWcUMS6gx8CC5syHLvW
+    [3] => $2y$10$OAaqfk2AZZWRar3QlQv/V.1CX9t2snnjcOJWcUMS6gx8CC5syHLvW
+    [role] => admin
+    [4] => admin
+    [phone] => 
+    [5] => 
+    [created_at] => 2025-05-21 07:34:33
+    [6] => 2025-05-21 07:34:33
+)
+
+Password mismatch
+Array
+(
+    [username] => admin
+    [password] => 12345678
+)
+User query result: Array
+(
+    [id] => 8
+    [0] => 8
+    [username] => admin
+    [1] => admin
+    [email] => admin@university.edu
+    [2] => admin@university.edu
+    [password] => $2y$10$OAaqfk2AZZWRar3QlQv/V.1CX9t2snnjcOJWcUMS6gx8CC5syHLvW
+    [3] => $2y$10$OAaqfk2AZZWRar3QlQv/V.1CX9t2snnjcOJWcUMS6gx8CC5syHLvW
+    [role] => admin
+    [4] => admin
+    [phone] => 
+    [5] => 
+    [created_at] => 2025-05-21 07:34:33
+    [6] => 2025-05-21 07:34:33
+)
+
+Password mismatch
+Array
+(
+    [username] => admin
+    [password] => 12345678
+)
+User query result: Array
+(
+    [id] => 8
+    [0] => 8
+    [username] => admin
+    [1] => admin
+    [email] => admin@university.edu
+    [2] => admin@university.edu
+    [password] => $2y$10$OAaqfk2AZZWRar3QlQv/V.1CX9t2snnjcOJWcUMS6gx8CC5syHLvW
+    [3] => $2y$10$OAaqfk2AZZWRar3QlQv/V.1CX9t2snnjcOJWcUMS6gx8CC5syHLvW
+    [role] => admin
+    [4] => admin
+    [phone] => 
+    [5] => 
+    [created_at] => 2025-05-21 07:34:33
+    [6] => 2025-05-21 07:34:33
+)
+
+Password mismatch
+Array
+(
+    [username] => admin
+    [password] => 12345678
+)
+User query result: Array
+(
+    [id] => 8
+    [0] => 8
+    [username] => admin
+    [1] => admin
+    [email] => admin@university.edu
+    [2] => admin@university.edu
+    [password] => $2y$10$OAaqfk2AZZWRar3QlQv/V.1CX9t2snnjcOJWcUMS6gx8CC5syHLvW
+    [3] => $2y$10$OAaqfk2AZZWRar3QlQv/V.1CX9t2snnjcOJWcUMS6gx8CC5syHLvW
+    [role] => admin
+    [4] => admin
+    [phone] => 
+    [5] => 
+    [created_at] => 2025-05-21 07:34:33
+    [6] => 2025-05-21 07:34:33
+)
+
+Password mismatch
+Array
+(
+    [username] => admin
+    [password] => admin123
+)
+User query result: Array
+(
+    [id] => 8
+    [0] => 8
+    [username] => admin
+    [1] => admin
+    [email] => admin@university.edu
+    [2] => admin@university.edu
+    [password] => $2y$10$OAaqfk2AZZWRar3QlQv/V.1CX9t2snnjcOJWcUMS6gx8CC5syHLvW
+    [3] => $2y$10$OAaqfk2AZZWRar3QlQv/V.1CX9t2snnjcOJWcUMS6gx8CC5syHLvW
+    [role] => admin
+    [4] => admin
+    [phone] => 
+    [5] => 
+    [created_at] => 2025-05-21 07:34:33
+    [6] => 2025-05-21 07:34:33
+)
+
+Login attempt:admin
+Array
+(
+    [username] => student1
+    [password] => student123
+)
+User query result: Array
+(
+    [id] => 2
+    [0] => 2
+    [username] => student1
+    [1] => student1
+    [email] => student1@university.edu
+    [2] => student1@university.edu
+    [password] =>   $2y$10$qOk3tRZnB7P3RLlvypNdAeQ62h2yrzbGYUHCjaVuun0A/j6SBZSSK
+    [3] =>   $2y$10$qOk3tRZnB7P3RLlvypNdAeQ62h2yrzbGYUHCjaVuun0A/j6SBZSSK
+    [role] => student
+    [4] => student
+    [phone] => +1234567890
+    [5] => +1234567890
+    [created_at] => 2025-05-21 07:18:51
+    [6] => 2025-05-21 07:18:51
+)
+
+Password mismatch
+Array
+(
+    [username] => admin
+    [password] => admin123
+)
+User query result: Array
+(
+    [id] => 8
+    [0] => 8
+    [username] => admin
+    [1] => admin
+    [email] => admin@university.edu
+    [2] => admin@university.edu
+    [password] => $2y$10$OAaqfk2AZZWRar3QlQv/V.1CX9t2snnjcOJWcUMS6gx8CC5syHLvW
+    [3] => $2y$10$OAaqfk2AZZWRar3QlQv/V.1CX9t2snnjcOJWcUMS6gx8CC5syHLvW
+    [role] => admin
+    [4] => admin
+    [phone] => 
+    [5] => 
+    [created_at] => 2025-05-21 07:34:33
+    [6] => 2025-05-21 07:34:33
+)
+
+Login attempt:admin
+Array
+(
+    [username] => admin
+    [password] => admin123
+)
+User query result: Array
+(
+    [id] => 8
+    [0] => 8
+    [username] => admin
+    [1] => admin
+    [email] => admin@university.edu
+    [2] => admin@university.edu
+    [password] => $2y$10$OAaqfk2AZZWRar3QlQv/V.1CX9t2snnjcOJWcUMS6gx8CC5syHLvW
+    [3] => $2y$10$OAaqfk2AZZWRar3QlQv/V.1CX9t2snnjcOJWcUMS6gx8CC5syHLvW
+    [role] => admin
+    [4] => admin
+    [phone] => 
+    [5] => 
+    [created_at] => 2025-05-21 07:34:33
+    [6] => 2025-05-21 07:34:33
+)
+
+Login attempt:admin
+Array
+(
+    [username] => admin
+    [password] => admin123
+)
+User query result: Array
+(
+    [id] => 8
+    [0] => 8
+    [username] => admin
+    [1] => admin
+    [email] => admin@university.edu
+    [2] => admin@university.edu
+    [password] => $2y$10$OAaqfk2AZZWRar3QlQv/V.1CX9t2snnjcOJWcUMS6gx8CC5syHLvW
+    [3] => $2y$10$OAaqfk2AZZWRar3QlQv/V.1CX9t2snnjcOJWcUMS6gx8CC5syHLvW
+    [role] => admin
+    [4] => admin
+    [phone] => 
+    [5] => 
+    [created_at] => 2025-05-21 07:34:33
+    [6] => 2025-05-21 07:34:33
+)
+
+Login attempt:admin
+Array
+(
+    [username] => admin
+    [password] => admin123
+)
+User query result: Array
+(
+    [id] => 8
+    [0] => 8
+    [username] => admin
+    [1] => admin
+    [email] => admin@university.edu
+    [2] => admin@university.edu
+    [password] => $2y$10$OAaqfk2AZZWRar3QlQv/V.1CX9t2snnjcOJWcUMS6gx8CC5syHLvW
+    [3] => $2y$10$OAaqfk2AZZWRar3QlQv/V.1CX9t2snnjcOJWcUMS6gx8CC5syHLvW
+    [role] => admin
+    [4] => admin
+    [phone] => 
+    [5] => 
+    [created_at] => 2025-05-21 07:34:33
+    [6] => 2025-05-21 07:34:33
+)
+
+Login attempt:admin
+Array
+(
+    [username] => admin
+    [password] => admin123
+)
+User query result: Array
+(
+    [id] => 8
+    [0] => 8
+    [username] => admin
+    [1] => admin
+    [email] => admin@university.edu
+    [2] => admin@university.edu
+    [password] => $2y$10$OAaqfk2AZZWRar3QlQv/V.1CX9t2snnjcOJWcUMS6gx8CC5syHLvW
+    [3] => $2y$10$OAaqfk2AZZWRar3QlQv/V.1CX9t2snnjcOJWcUMS6gx8CC5syHLvW
+    [role] => admin
+    [4] => admin
+    [phone] => 
+    [5] => 
+    [created_at] => 2025-05-21 07:34:33
+    [6] => 2025-05-21 07:34:33
+)
+
+Login attempt:admin
+Array
+(
+    [username] => admin
+    [password] => admin123
+)
+User query result: Array
+(
+    [id] => 8
+    [0] => 8
+    [username] => admin
+    [1] => admin
+    [email] => admin@university.edu
+    [2] => admin@university.edu
+    [password] => $2y$10$OAaqfk2AZZWRar3QlQv/V.1CX9t2snnjcOJWcUMS6gx8CC5syHLvW
+    [3] => $2y$10$OAaqfk2AZZWRar3QlQv/V.1CX9t2snnjcOJWcUMS6gx8CC5syHLvW
+    [role] => admin
+    [4] => admin
+    [phone] => 
+    [5] => 
+    [created_at] => 2025-05-21 07:34:33
+    [6] => 2025-05-21 07:34:33
+)
+
+Login attempt:admin
+Array
+(
+    [username] => admin
+    [password] => admin123
+)
+User query result: Array
+(
+    [id] => 8
+    [0] => 8
+    [username] => admin
+    [1] => admin
+    [email] => admin@university.edu
+    [2] => admin@university.edu
+    [password] => $2y$10$OAaqfk2AZZWRar3QlQv/V.1CX9t2snnjcOJWcUMS6gx8CC5syHLvW
+    [3] => $2y$10$OAaqfk2AZZWRar3QlQv/V.1CX9t2snnjcOJWcUMS6gx8CC5syHLvW
+    [role] => admin
+    [4] => admin
+    [phone] => 
+    [5] => 
+    [created_at] => 2025-05-21 07:34:33
+    [6] => 2025-05-21 07:34:33
+)
+
+Login attempt:admin
+Array
+(
+    [username] => student1
+    [password] => student123
+)
+User query result: Array
+(
+    [id] => 2
+    [0] => 2
+    [username] => student1
+    [1] => student1
+    [email] => student1@university.edu
+    [2] => student1@university.edu
+    [password] =>   $2y$10$qOk3tRZnB7P3RLlvypNdAeQ62h2yrzbGYUHCjaVuun0A/j6SBZSSK
+    [3] =>   $2y$10$qOk3tRZnB7P3RLlvypNdAeQ62h2yrzbGYUHCjaVuun0A/j6SBZSSK
+    [role] => student
+    [4] => student
+    [phone] => +1234567890
+    [5] => +1234567890
+    [created_at] => 2025-05-21 07:18:51
+    [6] => 2025-05-21 07:18:51
+)
+
+Password mismatch
+Array
+(
+    [username] => student1
+    [password] => student123
+)
+User query result: Array
+(
+    [id] => 2
+    [0] => 2
+    [username] => student1
+    [1] => student1
+    [email] => student1@university.edu
+    [2] => student1@university.edu
+    [password] =>   $2y$10$qOk3tRZnB7P3RLlvypNdAeQ62h2yrzbGYUHCjaVuun0A/j6SBZSSK
+    [3] =>   $2y$10$qOk3tRZnB7P3RLlvypNdAeQ62h2yrzbGYUHCjaVuun0A/j6SBZSSK
+    [role] => student
+    [4] => student
+    [phone] => +1234567890
+    [5] => +1234567890
+    [created_at] => 2025-05-21 07:18:51
+    [6] => 2025-05-21 07:18:51
+)
+
+Password mismatch
+Array
+(
+    [username] => admin
+    [password] => admin123
+)
+User query result: Array
+(
+    [id] => 8
+    [0] => 8
+    [username] => admin
+    [1] => admin
+    [email] => admin@university.edu
+    [2] => admin@university.edu
+    [password] => $2y$10$OAaqfk2AZZWRar3QlQv/V.1CX9t2snnjcOJWcUMS6gx8CC5syHLvW
+    [3] => $2y$10$OAaqfk2AZZWRar3QlQv/V.1CX9t2snnjcOJWcUMS6gx8CC5syHLvW
+    [role] => admin
+    [4] => admin
+    [phone] => 
+    [5] => 
+    [created_at] => 2025-05-21 07:34:33
+    [6] => 2025-05-21 07:34:33
+)
+
+Login attempt:admin
+Array
+(
+    [username] => admin
+    [password] => admin123
+)
+User query result: Array
+(
+    [id] => 8
+    [0] => 8
+    [username] => admin
+    [1] => admin
+    [email] => admin@university.edu
+    [2] => admin@university.edu
+    [password] => $2y$10$OAaqfk2AZZWRar3QlQv/V.1CX9t2snnjcOJWcUMS6gx8CC5syHLvW
+    [3] => $2y$10$OAaqfk2AZZWRar3QlQv/V.1CX9t2snnjcOJWcUMS6gx8CC5syHLvW
+    [role] => admin
+    [4] => admin
+    [phone] => 
+    [5] => 
+    [created_at] => 2025-05-21 07:34:33
+    [6] => 2025-05-21 07:34:33
+)
+
+Login attempt:admin
+Array
+(
+    [username] => admin
+    [password] => admin123
+)
+User query result: Array
+(
+    [id] => 8
+    [0] => 8
+    [username] => admin
+    [1] => admin
+    [email] => admin@university.edu
+    [2] => admin@university.edu
+    [password] => $2y$10$OAaqfk2AZZWRar3QlQv/V.1CX9t2snnjcOJWcUMS6gx8CC5syHLvW
+    [3] => $2y$10$OAaqfk2AZZWRar3QlQv/V.1CX9t2snnjcOJWcUMS6gx8CC5syHLvW
+    [role] => admin
+    [4] => admin
+    [phone] => 
+    [5] => 
+    [created_at] => 2025-05-21 07:34:33
+    [6] => 2025-05-21 07:34:33
+)
+
+Login attempt:admin
+Array
+(
+    [username] => admin
+    [password] => admin123
+)
+User query result: Array
+(
+    [id] => 8
+    [0] => 8
+    [username] => admin
+    [1] => admin
+    [email] => admin@university.edu
+    [2] => admin@university.edu
+    [password] => $2y$10$KypWSqQwfI0g7UMVqwIB7ebQKyerOS9HbPuIypXuqUZvhxRBYMfRe
+    [3] => $2y$10$KypWSqQwfI0g7UMVqwIB7ebQKyerOS9HbPuIypXuqUZvhxRBYMfRe
+    [role] => admin
+    [4] => admin
+    [phone] => 
+    [5] => 
+    [created_at] => 2025-05-21 07:34:33
+    [6] => 2025-05-21 07:34:33
+)
+
+Login attempt:admin
+Array
+(
+    [username] => admin
+    [password] => admin123
+)
+User query result: Array
+(
+    [id] => 8
+    [0] => 8
+    [username] => admin
+    [1] => admin
+    [email] => admin@university.edu
+    [2] => admin@university.edu
+    [password] => $2y$10$KypWSqQwfI0g7UMVqwIB7ebQKyerOS9HbPuIypXuqUZvhxRBYMfRe
+    [3] => $2y$10$KypWSqQwfI0g7UMVqwIB7ebQKyerOS9HbPuIypXuqUZvhxRBYMfRe
+    [role] => admin
+    [4] => admin
+    [phone] => 
+    [5] => 
+    [created_at] => 2025-05-21 07:34:33
+    [6] => 2025-05-21 07:34:33
+)
+
+Login attempt:admin
+Array
+(
+    [username] => juma
+    [password] => juma123
+)
+User query result: 
+User not found
+Array
+(
+    [username] => student1
+    [password] => student124
+)
+User query result: Array
+(
+    [id] => 2
+    [0] => 2
+    [username] => student1
+    [1] => student1
+    [email] => student1@university.edu
+    [2] => student1@university.edu
+    [password] =>   $2y$10$qOk3tRZnB7P3RLlvypNdAeQ62h2yrzbGYUHCjaVuun0A/j6SBZSSK
+    [3] =>   $2y$10$qOk3tRZnB7P3RLlvypNdAeQ62h2yrzbGYUHCjaVuun0A/j6SBZSSK
+    [role] => student
+    [4] => student
+    [phone] => +1234567890
+    [5] => +1234567890
+    [created_at] => 2025-05-21 07:18:51
+    [6] => 2025-05-21 07:18:51
+)
+
+Password mismatch

@@ -1,0 +1,171 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+body {
+    background-color: #f5f5f5;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-image: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%);
+}
+
+.login-container {
+    background-color: white;
+    padding: 2rem;
+    border-radius: 10px;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+    width: 100%;
+    max-width: 400px;
+    text-align: center;
+}
+
+.logo {
+    margin-bottom: 1.5rem;
+}
+
+.logo img {
+    width: 80px;
+    height: auto;
+    margin-bottom: 1rem;
+}
+
+.logo h1 {
+    font-size: 1.5rem;
+    color: #2c3e50;
+}
+
+.login-form {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+}
+
+.form-group {
+    text-align: left;
+}
+
+.form-group label {
+    display: block;
+    margin-bottom: 0.5rem;
+    color: #34495e;
+    font-weight: 500;
+}
+
+.form-group input {
+    width: 100%;
+    padding: 0.8rem;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    font-size: 1rem;
+    transition: border 0.3s;
+}
+
+.form-group input:focus {
+    outline: none;
+    border-color: #3498db;
+}
+
+.login-btn {
+    background-color: #3498db;
+    color: white;
+    border: none;
+    padding: 0.8rem;
+    border-radius: 5px;
+    font-size: 1rem;
+    font-weight: 600;
+    cursor: pointer;
+    transition: background-color 0.3s;
+    margin-top: 1rem;
+}
+
+.login-btn:hover {
+    background-color: #2980b9;
+}
+
+.error-message {
+    color: #e74c3c;
+    margin-top: 1rem;
+    font-size: 0.9rem;
+    display: none;
+}
+
+
+
+
+/* Add to existing styles */
+.dashboard-container {
+    max-width: 800px;
+    margin: 2rem auto;
+    padding: 2rem;
+    background: white;
+    border-radius: 10px;
+    box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+}
+
+.admin-section, .student-section {
+    margin-top: 2rem;
+}
+
+.card {
+    padding: 1.5rem;
+    background: #f8f9fa;
+    border-radius: 8px;
+    margin: 1rem 0;
+    cursor: pointer;
+    transition: transform 0.2s;
+}
+
+.card:hover {
+    transform: translateY(-2px);
+}
+
+.logout-btn {
+    float: right;
+    color: #dc3545;
+    text-decoration: none;
+}
+
+
+
+body {
+    font-family: 'Arial', sans-serif;
+    background: #f0f2f5;
+    margin: 0;
+    padding: 0;
+}
+
+.logout-btn {
+    position: absolute;
+    top: 20px;
+    right: 20px;
+    padding: 10px 25px;
+    background: #dc3545;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+    transition: background 0.3s ease;
+}
+
+.logout-btn:hover {
+    background: #bb2d3b;
+}
+
+h1 {
+    color: #2c3e50;
+    margin-bottom: 10px;
+}
+
+h2 {
+    color: #7f8c8d;
+    margin-bottom: 30px;
+}
+
+h3 {
+    color: #34495e;
+    margin-bottom: 15px;
+}
